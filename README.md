@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @PrajaktaNWANI
-- 👀 I am a Frontend Designer.
-- 🌱 I am having experience in - HTML5, CSS3, BOOTSTRAP, Javascript, JQUERY, REACT.JS
+- 👀 A dedicated UI Designer and Developer, with @4 yrs. experience in designing websites that met user goals.
+- 🌱 Implemented the responsive Web designs using Bootstrap and CSS3 media queries.
+- 🌱 Developed the User interface with HTML5, CSS3, Javascript, Bootstrap.
+- 🌱 Completed Course of React JS and training projects and have knowledge of Next JS.
+- 🌱 Worked on CMS - WordPress.
+- 🌱 Solely handled clients from Business requirement to deployment of project.
 - 📫 Reach Me On - pkwani12@gmail.com ...
+
+
+
+
 

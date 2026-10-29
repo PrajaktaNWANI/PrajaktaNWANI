@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @PrajaktaNWANI
-- 👀 A dedicated UI Designer and Developer, with 6+ yrs. experience in designing websites that met user goals.
-- 🌱 Implemented the responsive Web designs using Bootstrap and CSS3 media queries.
-- 🌱 Developed the User interface with HTML5, CSS3, Javascript, Bootstrap.
-- 🌱 Completed Course of React JS and training projects and have knowledge of Next JS.
-- 🌱 Worked on CMS - WordPress, sitefinity.
-- 🌱 Solely handled clients from Business requirement to deployment of project.
-- 📫 Reach Me On - pkwani12@gmail.com ...
-
-
-
-
-
+Technology Lead and Certified Scrum Master (Professional Scrum Master I, PSM AI Essentials) with 8+ years of IT experience, combining a strong technical background with business analysis support and release delivery. Scrum Master for a 6-member Agile team (100% sprint completion, 20% higher velocity), coordinated 50+ releases (10+ major) over a 4+ year ABB engagement, and build team capability through mentoring. Onsite UK client delivery Mar 2023 - Jun 2025. Aiming to grow into delivery management.
